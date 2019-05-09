@@ -24,13 +24,19 @@
       "integrations/index",
       "integrations/url-handler",
       "integrations/actions",
-      "integrations/apple-watch",
       "integrations/sensors",
       "integrations/siri-shortcuts",
       "integrations/theming",
       "integrations/universal-links",
       "integrations/url-handler",
       "integrations/x-callback-url"
+    ]
+  },
+  "Watch": {
+    "Apple Watch": [
+      "watch/index",
+      "watch/actions",
+      "watch/complications"
     ]
   },
   "Misc": {

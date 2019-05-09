@@ -11,9 +11,6 @@
       "integrations/actions": {
         "title": "Actions"
       },
-      "integrations/apple-watch": {
-        "title": "Apple Watch"
-      },
       "integrations/index": {
         "title": "Integrations"
       },
@@ -80,6 +77,9 @@
       "notifications/sounds": {
         "title": "Sounds"
       },
+      "watch/index": {
+        "title": "Apple Watch"
+      },
       "version-1.0.0/getting_started/version-1.0.0-index": {
         "title": "Welcome"
       },
@@ -121,6 +121,9 @@
       },
       "version-1.0.0/notifications/version-1.0.0-sounds": {
         "title": "Sounds"
+      },
+      "version-1.0.0/watch/version-1.0.0-index": {
+        "title": "Introduction"
       }
     },
     "links": {
@@ -128,6 +131,7 @@
       "Location": "Location",
       "Notifications": "Notifications",
       "Integrations": "Integrations",
+      "Watch": "Watch",
       "Misc": "Misc",
       "Help": "Help"
     },
@@ -136,6 +140,7 @@
       "The Basics": "The Basics",
       "Advanced": "Advanced",
       "Integrations": "Integrations",
+      "Apple Watch": "Apple Watch",
       "Miscellaneous": "Miscellaneous"
     }
   },
