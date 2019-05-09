@@ -77,8 +77,14 @@
       "notifications/sounds": {
         "title": "Sounds"
       },
+      "watch/actions": {
+        "title": "Actions"
+      },
+      "watch/complications": {
+        "title": "Complications"
+      },
       "watch/index": {
-        "title": "Apple Watch"
+        "title": "Introduction"
       },
       "version-1.0.0/getting_started/version-1.0.0-index": {
         "title": "Welcome"
