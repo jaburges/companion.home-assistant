@@ -102,13 +102,19 @@
         "title": "Integrations"
       },
       "troubleshooting/more-help": {
-        "title": "getting more help"
+        "title": "Getting more help"
       },
       "troubleshooting/setup": {
         "title": "Troubleshooting"
       },
+      "version-1.0.0/core/version-1.0.0-actions": {
+        "title": "Actions"
+      },
       "version-1.0.0/core/version-1.0.0-index": {
-        "title": "Troubleshooting"
+        "title": "Core features"
+      },
+      "version-1.0.0/core/version-1.0.0-location": {
+        "title": "Location"
       },
       "version-1.0.0/getting_started/version-1.0.0-index": {
         "title": "Welcome"

@@ -4,6 +4,13 @@
       "version-1.0.0-getting_started/index"
     ]
   },
+  "version-1.0.0-Core" :{
+    "Core Features": [
+      "version-1.0.0-core/index",
+      "version-1.0.0-core/actions",
+      "version-1.0.0-core/location"
+    ]
+  },
   "version-1.0.0-Notifications": {
     "The Basics": [
       "version-1.0.0-notifications/basic",
