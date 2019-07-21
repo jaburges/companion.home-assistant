@@ -8,8 +8,8 @@ Along with providing [location services](location.md), the companion app also ad
 | --------- | --------- | ----------- |
 | `sensor.activity` | `confidence`, `types` | The current activity type as computed by iOS. Requires motion permissions to be enabled. |
 | `sensor.average_active_pace` | None | The averaged pace calculated by iOS from pedometer data. Units: meters per second, m/s |
-| `sensor.battery_level` | `Battery State` | The current battery level of the device. Current battery state is available from the `Battery State` attribute of this sensor. |
-| `sensor.battery_state` | `Battery Level` | The current charging state (either `Charging`, `Not Charging`, or `Full`) of the device. Current battery level is available from the `Level` attribute of this sensor. |
+| `sensor.battery_level` | `Battery Level` | The current battery level of the device. Current battery state is available from the `Battery State` attribute of this sensor. |
+| `sensor.battery_state` | `Battery State` | The current charging state (either `Charging`, `Not Charging`, or `Full`) of the device. Current battery level is available from the `Level` attribute of this sensor. |
 | `sensor.bssid` | None |  The MAC address of the wireless access point your phone is connected to. When off Wi-Fi, this sensor will report `Not Connected`. |
 | `sensor.connection_type` | `Cellular Technology` | The current data connection being used by the phone. |
 | `sensor.distance` | None | The estimated distance walked by the user since midnight local time. Units: meters, m |
